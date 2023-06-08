@@ -5,21 +5,21 @@ This project is a React-based clone of the popular video-sharing platform, YouTu
 ## Table of Contents
 
 - [Features](#Features)
-- [Technologies Used](#Technologies Used)
+- [TechnologiesUsed](#Technologies Used)
 - [Installation](#Installation)
 - [Contributing](#Contributing)
 
 
 ## Features
 
--Video Playback: Users can watch videos with a built-in video player that supports playback controls, quality settings, and fullscreen mode.
+- Video Playback: Users can watch videos with a built-in video player that supports playback controls, quality settings, and fullscreen mode.
 
--Search Functionality: The application provides a search bar where users can enter keywords to find specific videos or channels.
+- Search Functionality: The application provides a search bar where users can enter keywords to find specific videos or channels.
 Video Recommendations: Based on user preferences and viewing history, the clone suggests related videos to enhance the browsing experience.
 
--User Interaction: Users can like, dislike, comment on videos, and subscribe to channels to stay updated with their favorite content creators.
+- User Interaction: Users can like, dislike, comment on videos, and subscribe to channels to stay updated with their favorite content creators.
 
--Responsive Design: The React clone YouTube is designed to be responsive, adapting to various screen sizes and ensuring a seamless experience on both desktop and mobile devices.
+- Responsive Design: The React clone YouTube is designed to be responsive, adapting to various screen sizes and ensuring a seamless experience on both desktop and mobile devices.
 
 
 ## Technologies Used
