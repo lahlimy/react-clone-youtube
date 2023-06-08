@@ -40,29 +40,24 @@ Axios: Axios, a promise-based HTTP client, is employed for making API requests t
 
 ```
 git clone https://github.com/your-username/react-clone-youtube.git
-
 ```
 
 Navigate to the project directory: 
 ```
 cd react-clone-youtube
-
 ```
 Install the dependencies:
 ```
  npm install
- 
 ```
 Start the development server: 
 ```
 npm start
-
 ```
 Open your browser and visit:
 
 ```
  http://localhost:3000
- 
 ```
 
 ## Contributing
