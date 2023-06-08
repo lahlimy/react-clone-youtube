@@ -5,7 +5,7 @@ This project is a React-based clone of the popular video-sharing platform, YouTu
 ## Table of Contents
 
 - [Features](#Features)
-- [TechnologiesUsed](#Technologies Used)
+- [Technologies](#Technologies)
 - [Installation](#Installation)
 - [Contributing](#Contributing)
 
@@ -22,7 +22,7 @@ Video Recommendations: Based on user preferences and viewing history, the clone 
 - Responsive Design: The React clone YouTube is designed to be responsive, adapting to various screen sizes and ensuring a seamless experience on both desktop and mobile devices.
 
 
-## Technologies Used
+## Technologies
 
 React: The project utilizes React, a popular JavaScript library for building user interfaces, to create a dynamic and interactive YouTube clone.
 
